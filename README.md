@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 <h3 align="center">A passionate student of robotics. I love developing cross-platform applications and I am enthusiastic about everything related to artificial intelligence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imega34&label=Profile%20views&color=0e75b6&style=flat" alt="imega34" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imega34" alt="imega34" /></a> </p>
 
 - 🌱 I’m currently learning **mobile and web development**
