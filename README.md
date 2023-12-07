@@ -1,3 +1,4 @@
+![MasterHead](https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-07.gif)
 <h1 align="center">Hi 👋! Nice to meet you, I'm Erick</h1>
 <h3 align="center">A passionate student of robotics @ Tec de Monterrey. I love developing cross-platform applications and I am enthusiastic about everything related to artificial intelligence.</h3>
 
