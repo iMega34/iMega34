@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imega34&label=Profile%20views&color=0e75b6&style=flat" alt="imega34" /> </p>
 
-- 🔭 I’m currently working on [eTrigali](https://github.com/iMega34/eTrigali)
+- 🔭 I’m currently working on [LinkCafé](https://github.com/iMega34/eTrigali)
 
 - 🌱 I’m currently learning **mobile and web development**
 
